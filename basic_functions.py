@@ -7,9 +7,6 @@ class page():
         self.date_created = date_created
         self.location = location
 
-created_page = page(input("Input a title:"), datetime.now(tz=None), os.getcwd())
-
-print(created_page.title)
 
 
 
