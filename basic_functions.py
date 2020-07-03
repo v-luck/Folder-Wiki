@@ -7,6 +7,8 @@ class page():
         self.date_created = date_created
         self.location = location
 
+print("test")
+
 
 
 
